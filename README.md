@@ -1,8 +1,8 @@
 # LilLexi 
 ## Project Description
-#### Lil Lexi allows a user to create a new document and to add text, images and simple geometric shapes to it. The user is able to make changes to the document. It should be possible to organize the text and images in rows and columns and to control the size and type of font. 
+* Lil Lexi allows a user to create a new document and to add text, images and simple geometric shapes to it. The user is able to make changes to the document. It should be possible to organize the text and images in rows and columns and to control the size and type of font. 
 ## Instructions to Run the Program:
-#### Make sure the files are organized correctly as shown below:
+* Make sure the files are organized correctly as shown below:
 * ![HIII](https://github.com/alisartazkhan/LilLexi/blob/main/DIR-org.png)
 * Run `./src/LilLexi.java`
 ## Disclaimer
